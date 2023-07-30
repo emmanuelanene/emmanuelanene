@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Python Developer💻</h3>
 </br>
 <p align="center">
-<img width="800px" src="https://uploads-ssl.webflow.com/61488f4f65be16b5ebbd450b/6227f850ff6859366c2635f2_Autopilotapp.jpg" alt="Data Analyst">
+<a href="https://www.linkedin.com/in/emmanuelanene/"><img width="800px" src="https://uploads-ssl.webflow.com/61488f4f65be16b5ebbd450b/6227f850ff6859366c2635f2_Autopilotapp.jpg" alt="Data Analyst"></a>
 </p>
 
 </br>
