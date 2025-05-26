@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Emmanuel&nbsp;<a href="https://www.linkedin.com/in/emmanuelanene/"><img width="30px" src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" alt="Full Stack & Flutter Developer"></a></h1>
-<h3 align="left">Full Stack & Flutter Developer 💻📱</h3>
+<h3 align="left">Expert Full Stack Web & Mobile App Developer 💻📱</h3>
 
 <p align="left">
 I'm passionate about building scalable web and mobile applications with clean, efficient code. Experienced in both frontend and backend technologies, as well as cross-platform mobile development with Flutter.
