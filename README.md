@@ -37,7 +37,6 @@ My core focus is <strong>backend & frontend engineering with Java and Angular</s
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/></a>
 </p>
 
-<br>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emmanuelanene" target="_blank">
