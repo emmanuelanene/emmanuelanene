@@ -19,6 +19,7 @@ My core focus is <strong>backend & frontend engineering with Java and Angular</s
 - 💬 Let’s connect on <a href="https://www.linkedin.com/in/emmanuelanene/" target="_blank">LinkedIn</a>
 </p>
 
+<br>
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
 <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/></a>
@@ -33,22 +34,17 @@ My core focus is <strong>backend & frontend engineering with Java and Angular</s
 &nbsp;&nbsp;
 <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/></a>
 &nbsp;&nbsp;
-<a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="45"/></a>
-&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/></a>
 </p>
 
+<br>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emmanuelanene" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="23"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@emmanuelanenee" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="25"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/emmanuelanene" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="25"/>
 </a>
 </p>
