@@ -8,8 +8,9 @@ My core focus is <strong>backend & frontend engineering with Java and Angular</s
 
 <p align="left">
 - ⚙️ Software Engineering: Java, Spring Boot, Angular, REST APIs  
-- 🤖 AI Engineering: Python, LLMs, Hugging Face, LangChain  
-- 🧠 AI Apps: Streamlit, Gradio, prompt engineering, model integration  
+  <br>
+- 🤖 AI Engineering: Python, LLMs, Hugging Face, LangChain  <br>
+- 🧠 AI Apps: Streamlit, Gradio, prompt engineering, model integration <br>  
 - 🐳 DevOps & Tools: Docker, SQL, Git, Postman  
 </p>
 
