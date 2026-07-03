@@ -15,7 +15,6 @@ My core focus is <strong>backend & frontend engineering with Java and Angular</s
 </p>
 
 <p align="left">
-- 👨‍💻 Explore my work: <a href="https://medium.com/@emmanuelanenee" target="_blank">emmanuelanene.com</a>  <br>
 - 💬 Let’s connect on <a href="https://www.linkedin.com/in/emmanuelanene/" target="_blank">LinkedIn</a>
 </p>
 
