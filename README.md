@@ -32,8 +32,6 @@ My core focus is <strong>backend & frontend engineering with Java and Angular</s
 &nbsp;&nbsp;
 <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/></a>
 &nbsp;&nbsp;
-<a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/></a>
-&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/></a>
 </p>
 
